@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012751587983",
+    "project_id": "guessanimal-78aad",
+    "storage_bucket": "guessanimal-78aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012751587983:android:7967871758a41caaf7aefa",
+        "android_client_info": {
+          "package_name": "com.example.guessanimal05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012751587983-liibcgj0ibpnrti4r3c2ccvikv7lj5pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guessanimal05",
+            "certificate_hash": "b9a7a92067814bf5a8ac8b6d2acaa5b82fa80048"
+          }
+        },
+        {
+          "client_id": "1012751587983-fdg2sfeesjoq3svgtl9qrd665jiatvt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8HLjy3eZ13ngzc4Z5hEhZIz_uWoqbP0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012751587983-fdg2sfeesjoq3svgtl9qrd665jiatvt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
